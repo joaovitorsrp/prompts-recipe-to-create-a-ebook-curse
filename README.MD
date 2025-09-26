@@ -47,7 +47,7 @@ Gemini：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título |create a image, demon slayer art style anime, brandishing the katana, create the hashira, with python appearing, change the dragon to a blue snake, similar a python |
-         |create a image separator line katana hashira,would it be possible to remove the banner and just leave the image of the katana with a white background,make the background transparent|
+|        |create a image separator line katana hashira,would it be possible to remove the banner and just leave the image of the katana with a white background,make the background transparent|
 
 ## ✨ Features
 
