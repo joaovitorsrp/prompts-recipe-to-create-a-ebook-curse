@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/Hashira_Cover.png"
+    src="./assets/ebook_hashira.png"
     width="400"  
 />
 </p>
