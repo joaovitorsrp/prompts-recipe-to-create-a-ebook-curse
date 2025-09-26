@@ -62,7 +62,7 @@ Gemini：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <p>&nbsp&nbsp&nbspJoão Vitor<br>
