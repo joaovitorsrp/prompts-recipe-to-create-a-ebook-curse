@@ -42,16 +42,16 @@ ChatGPT：
 | conteúdo | faça um texto para ebook, com foco em Python,listando os principais seletores Python com exemplos em código {REGRAS} >Explique sempre te uma maneira simples >Deixe o texto enxuto >Sempre traga exemplos de código em contextos reais >Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título |create a image, demon slayer art style anime, brandishing the katana, create the hashira, with python appearing, change the dragon to a blue snake, similar a python |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Gemini
 
 ## 📚 Materiais
 
