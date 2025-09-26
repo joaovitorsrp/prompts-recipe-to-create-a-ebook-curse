@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/Hashira_cover.png"
+    src="./assets/Hashira_Cover.png"
     width="400"  
 />
 </p>
